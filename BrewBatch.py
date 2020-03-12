@@ -15,8 +15,8 @@ class BrewBatch():
     def __init__(self):
         self._bb_id
         self._recipe_id
-        self._bb_start_date_time
-        self._bb_end_date_time
+        self._bb_start_date_time = datetime.datetime.utcnow()
+        self._bb_end_date_time = datetime.datetime.utcnow()
         #self._bb_stage
         self._bb_duration
         self._bb_status
