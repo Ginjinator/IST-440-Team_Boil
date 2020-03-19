@@ -1,6 +1,7 @@
 import datetime
 import time
 
+
 class BrewBatch():
 
     _bb_id = 0

@@ -6,6 +6,7 @@
 import datetime
 import time
 
+
 class BrewBatchStage():
 
     _bb_stage_id = 0
@@ -14,7 +15,7 @@ class BrewBatchStage():
     _bb_stage_duration = time
     _bb_stage_status = ""
 
-    #constructor
+    # constructor
     def __init__(self):
         self._bb_stage_id
         self._bb_stage_start_date_time

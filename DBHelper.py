@@ -1,10 +1,11 @@
-#Project: Brewing Automation System - Capstone Project
-#Purpose Details: class assisting with connecting and saving to the local database
-#Course: IST 440W - 001
-#Author: David Karminski(dck5200@psu.edu)
-#Date Developed: 3/18/20
-#Last Date Changed:
-#Rev 1
+# Project: Brewing Automation System - Capstone Project
+# Purpose Details: class assisting with connecting and saving to the local database
+# Course: IST 440W - 001
+# Author: David Karminski(dck5200@psu.edu)
+# Date Developed: 3/18/20
+# Last Date Changed:
+# Rev 1
+
 
 class DBHelper():
 
