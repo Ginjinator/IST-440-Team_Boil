@@ -26,4 +26,4 @@ class CloudHelper():
         return self._local_database
 
     def send_database(self):
-        return #Database
+        return self.send_database()
