@@ -1,5 +1,10 @@
-# Team Boil
-# Created By Alex Hirsh, ajh6196@psu.edu
+# Project: Brewing Automation System - Capstone Project
+# Purpose Details: class for controlling sensors
+# Course: IST 440W - 001
+# Author: Alex Hirsh(ajh6196@psu.edu)
+# Date Developed: 3/30/2020
+# Last Date Changed: 3/30/2020
+# Rev 1
 
 
 import datetime
