@@ -1,4 +1,13 @@
-import sys, datetime
+# Project: Brewing Automation System - Capstone Project
+# Purpose Details: class for connecting to MongoDB
+# Course: IST 440W - 001
+# Author: Team Boil
+# Date Developed: 3/20/2020
+# Last Date Changed: 3/30/2020
+# Rev 1
+
+
+import datetime
 from pymongo import MongoClient
 
 

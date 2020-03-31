@@ -1,7 +1,7 @@
 # Project: Brewing Automation System - Capstone Project
 # Purpose Details: class for testing quality assurance
 # Course: IST 440W - 001
-# Author: Teresa Barker(tlb5767@psu.edu)
+# Author: Teresa Barker, (tlb5767@psu.edu)
 # Date Developed: 3/18/20
 # Last Date Changed: 3/18/2020
 # Rev 1
@@ -10,7 +10,7 @@
 import time
 
 
-class QualityCheck():
+class QualityCheck:
 
     # Variables
     _recipe_boil_temp = float
@@ -20,15 +20,6 @@ class QualityCheck():
     _boil_over = bool
     _overflowing = bool
     _correct_volume = bool
-
-    def __init__(self):
-        self._recipe_boil_temp
-        self._batch_boil_time
-        self._recipe_boil_time
-        self._batch_boil_temp
-        self._boil_over
-        self._overflowing
-        self._correct_volume
 
     def __init__(self, _recipe_boil_temp, _batch_boil_time, _batch_boil_temp, _recipe_boil_time, _boil_over, _overflowing, _correct_volume):
         self._recipe_boil_temp = _recipe_boil_temp
