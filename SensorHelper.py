@@ -1,7 +1,7 @@
 # Project: Brewing Automation System - Capstone Project
 # Purpose Details: class for controlling sensors
 # Course: IST 440W - 001
-# Author: Teresa Barker(tlb5767@psu.edu)
+# Author: Teresa Barker, (tlb5767@psu.edu)
 # Date Developed: 3/18/20
 # Last Date Changed: 3/18/2020
 # Rev 1
