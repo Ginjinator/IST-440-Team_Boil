@@ -24,6 +24,12 @@ class MongoDB:
             print("error:%s" % e)
 
     def mongoInstance(self, typer, text):
+        '''
+        Creates an Instance in Mongo to be saved in the database
+        :param typer: allows a typer to type in an instance to be saved
+        :param text: the text to be as a document object
+        :return: returns the created instance
+        '''
         try:
             post = {"type": typer,
                     "text": text,
